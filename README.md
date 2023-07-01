@@ -1,7 +1,7 @@
-# [Bike Landing Page](https://NickMitchell61.github.io/landing_bike/)
+# [Bike Landing Page](https://maksym-nemera.github.io/landing_bike/)
 This repository contains the source code and assets for the **Bike Landing Page** project.
 
-You may try it on this page: [CLICK ME](https://NickMitchell61.github.io/landing_bike/)
+You may try it on this page: [CLICK ME](https://maksym-nemera.github.io/landing_bike/)
 
 ## Description
 The Bike Landing Page is a website designed to showcase and promote a bike-related product or service. It is built using ***HTML***, ***SCSS***, and ***JavaScript***, following the ***BEM*** (Block, Element, Modifier) methodology for structuring the code.
