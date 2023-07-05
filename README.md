@@ -19,15 +19,20 @@ Feel free to customize the content, styles, and functionality of the Bike Landin
 - HTML
 - SCSS
 - BEM methodology
+- JavaScript
 - GitHub Pages for hosting the live demo
 
 ## Contributing
 If you would like to contribute to this project, you can follow these steps:
 
 1. Fork the repository.
-2. Create a new branch: git switch -c feature/your-feature.
-3. Commit your changes: git commit -m 'Add some feature'.
-4. Push the branch to your forked repository: git push origin feature/your-feature.
+2. Clone the forked repository: `git clone https://github.com/your-username/landing_bike.git`.
+3. Navigate to the project directory: `cd landing_bike`.
+2. Create a new branch: `git switch -c feature/your-feature`.
+3. Install packages: `npm i`.
+4. Start the project: `npm start`.
+3. Commit your changes: `git commit -m 'Add some feature'`.
+4. Push the branch to your forked repository: `git push origin feature/your-feature`.
 5. Open a pull request in this repository.
 
 ## Contact
