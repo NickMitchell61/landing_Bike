@@ -23,5 +23,5 @@ form.addEventListener('submit', (event) => {
 });
 
 AOS.init({
-  duration: 1200,
+  duration: 500,
 });

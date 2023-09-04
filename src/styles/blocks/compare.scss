@@ -3,6 +3,8 @@
   &__bike {
     margin-bottom: 40px;
 
+    overflow-x: hidden;
+
     @include onTablet {
       margin-bottom: 48px;
     }

@@ -1,5 +1,9 @@
 .details {
-  --border-radius: 25px;
+  --border-radius: 15px;
+
+  &__container {
+    overflow-x: hidden;
+  }
 
   &__photos-container {
     margin-bottom: 16px;
